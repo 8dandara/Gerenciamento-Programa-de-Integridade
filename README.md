@@ -5,7 +5,7 @@ Sistema web full stack para gestão de programas de integridade, com foco em aç
 ## Tecnologias Utilizadas
 - Frontend: React + TailwindCSS
 - Backend: Node.js + Express
-- Banco de Dados: MongoDB + Mongoose
+- Banco de Dados: MySQL
 
 ## Funcionalidades
 - Cadastro e edição de pilares
